@@ -1,0 +1,1 @@
+import{_ as r,o as t,c as o,a as e,t as s}from"./index-a67f541d.js";const _={},n={class:"error"};function c(a,d){return t(),o("main",null,[e("div",n,[e("span",null,s(a.$t("error.text")),1)])])}const i=r(_,[["render",c],["__scopeId","data-v-f0a1da74"]]);export{i as default};
